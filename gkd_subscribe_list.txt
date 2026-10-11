@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/Lin-arm/GKD_subscription/main/dist/gkd.json5
+https://raw.githubusercontent.com/aoguai/subscription/custom/dist/aoguai_gkd.json5
+https://raw.githubusercontent.com/ganlinte/GKD-subscription/main/dist/ganlin_gkd.json5
+https://raw.githubusercontent.com/AIsouler/GKD_subscription/main/dist/AIsouler_gkd.json5
