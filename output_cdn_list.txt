@@ -1,0 +1,4 @@
+https://cdn.jsdelivr.net/gh/wapython/gkd_rule_private@main/dist/Lin-arm_gkd.json5
+https://cdn.jsdelivr.net/gh/wapython/gkd_rule_private@main/dist/aoguai_aoguai_gkd.json5
+https://cdn.jsdelivr.net/gh/wapython/gkd_rule_private@main/dist/ganlinte_ganlin_gkd.json5
+https://cdn.jsdelivr.net/gh/wapython/gkd_rule_private@main/dist/AIsouler_AIsouler_gkd.json5
